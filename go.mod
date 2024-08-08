@@ -1,7 +1,7 @@
-module gitlab.com/etke.cc/go/fswatcher
+module github.com/etkecc/go-fswatcher
 
 go 1.20
 
-require github.com/fsnotify/fsnotify v1.6.0
+require github.com/fsnotify/fsnotify v1.7.0
 
-require golang.org/x/sys v0.7.0 // indirect
+require golang.org/x/sys v0.24.0 // indirect
